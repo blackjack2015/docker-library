@@ -1,0 +1,2 @@
+FROM gcr.io/google_containers/kube-scheduler:v1.21.3
+MAINTAINER blackjack2015 <qiangwang2015@gmail.com>
